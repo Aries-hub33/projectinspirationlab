@@ -1,0 +1,29 @@
+h1{
+    color: cornflowerblue;
+    position: relative;
+    text-align: center;
+    
+}
+
+.logo {
+    height: 500px;
+    width: 600px;
+    position: relative;
+    left: 600px;
+    top: -40px;
+}
+
+body{
+    background-color:black;
+}
+
+blogs{
+    color: lightskyblue;
+    position: relative;
+    right: 250px;
+    
+}
+
+.description{
+    color: whitesmoke;
+}
